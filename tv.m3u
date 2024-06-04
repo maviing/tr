@@ -43,6 +43,9 @@ https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 #EXTINF:-1 tvg-name="TRT COCUK" tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="CARTOON NETWORK TR" tvg-id="CARTOONNETWORKTR.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png" group-title="ULUSAL",CARTOON NETWORK TR
+#EXTVLCOPT:network-caching=1000
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="ULUSAL",KANAL 7
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
@@ -96,6 +99,9 @@ https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="GS TV HD" tvg-id="GSTV.tr" tvg-logo="https://i.ibb.co/6RqMpGT/gs-tv.png" group-title="SPOR",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
+#EXTINF:-1 tvg-name="BY HORSES" tvg-id="BYHORSES.tr" tvg-logo="https://byhorses.tv/wp-content/uploads/2023/11/logo-transparente.png" group-title="SPOR",BY HORSES TV
+#EXTVLCOPT:network-caching=1000
+https://byhorses.blutv.com/blutv_byhorses/blutv_byhorses/index.m3u8
 #EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV
 http://tjktv.ercdn.net/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV YURT DISI
@@ -104,6 +110,9 @@ https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
 https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/taytv.m3u8
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TARIM" tvg-id="TARIM.tr" tvg-logo="https://www.tarimtv.gov.tr/uploads/logo/logo-tarim-31FnQ2ZNL1.png" group-title="BELGESEL",TARIM TV
+#EXTVLCOPT:network-caching=1000
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-name="YABANTV" tvg-id="YABANTV.tr" tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" group-title="BELGESEL",YABAN TV
 https://yayin1.canlitv.day/canlitv/yabantv.stream/chunklist_w488524430.m3u8?hash=35d9f3b1ee228c9b851cd50531a1ba00
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-id="LOVENATURE.tr" tvg-logo="https://en.wikipedia.org/wiki/File:Love_Nature_TV.png" group-title="BELGESEL",LOVE NATURE
