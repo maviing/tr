@@ -177,7 +177,7 @@ https://tgrthaber.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8?app=web
 #EXTINF:-1 tvg-name="TURKHABER" tvg-id="TurkHaberTV.tr" tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png" group-title="HABER",TURKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAKYA TURK" tvg-id="TrakyaTurk.tr" tvg-logo="https://trakyaturktv.com/uploads/2023/10/settings/6519f50f032b3-1696199951-202310-238.png" group-title="HABER",TRAKYA TURK
-https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8?nimblesessionid=3257706953
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
 #EXTINF:0 tvg-name="ON6" tvg-id="On6.tr" tvg-logo="https://i.imgur.com/k7rS2gC.png" group-title="ULUSAL",ON 6
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
 #EXTINF:0 tvg-name="ON4" tvg-id="On4.tr" tvg-logo="https://i.imgur.com/qGRa1KI.png" group-title="ULUSAL",ON 4
