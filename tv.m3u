@@ -132,7 +132,7 @@ http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TARIM" tvg-id="TARIM.tr" tvg-logo="https://www.tarimtv.gov.tr/uploads/logo/logo-tarim-31FnQ2ZNL1.png" group-title="BELGESEL",TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-name="YABANTV" tvg-id="YABANTV.tr" tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" group-title="BELGESEL",YABAN TV
-https://yayin1.canlitv.day/canlitv/yabantv.stream/chunklist_w488524430.m3u8?hash=35d9f3b1ee228c9b851cd50531a1ba00
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-id="LOVENATURE.tr" tvg-logo="https://en.wikipedia.org/wiki/File:Love_Nature_TV.png" group-title="BELGESEL",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-id="Fashion.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1696px-Fashion_TV_logo.svg.png" group-title="ULUSAL",FASHION 4K
