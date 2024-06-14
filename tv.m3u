@@ -136,7 +136,7 @@ http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TARIM" tvg-id="TARIM.tr" tvg-logo="https://www.tarimtv.gov.tr/uploads/logo/logo-tarim-31FnQ2ZNL1.png" group-title="BELGESEL",TARIM TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-name="YABANTV" tvg-id="YABANTV.tr" tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" group-title="BELGESEL",YABAN TV
-https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-id="LOVENATURE.tr" tvg-logo="https://en.wikipedia.org/wiki/File:Love_Nature_TV.png" group-title="BELGESEL",LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-id="Fashion.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1696px-Fashion_TV_logo.svg.png" group-title="ULUSAL",FASHION 4K
@@ -228,7 +228,7 @@ http://stream.tvcdn.net/yerel/sile-tv.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
 #EXTINF:0 tvg-name="ON4" tvg-id="On4.tr" tvg-logo="https://i.imgur.com/qGRa1KI.png" group-title="ULUSAL",ON 4
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tivi Turk" tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="DiÄŸer-EÄŸlence",TIVI TURK
+#EXTINF:-1 tvg-name="Tivi Turk" tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="ULUSAL",TIVI TURK
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 #EXTINF:-1 tvg-name="Number 1 TV" tvg-id="Number1TV.tr" tvg-logo="https://i.ibb.co/sybLTBG/nr1.png" group-title="MUZIK",NR1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
