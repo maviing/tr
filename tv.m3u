@@ -30,22 +30,15 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
 
-
 #EXTINF:-1 group-title="Play Tv | Ulusal", Star TV 
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-
 
 
 #EXTINF:-1 group-title="Play Tv | Ulusal", Euro Star 
 https://canlitvulusal.xyz/live/eurostar/index.m3u8
 
-
-
-
 #EXTINF:-1 group-title="Play Tv | Ulusal", Show TV 
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-
-
 
 #EXTINF:-1 group-title="Play Tv | Ulusal", Show Türk
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
@@ -53,8 +46,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/sht
 
 #EXTINF:-1 group-title="Play Tv | Ulusal", Show Max
 https://ciner-live.daioncdn.net/showmax/showmax.m3u8
-
-
 
 #EXTINF:-1 group-title="Play Tv | Ulusal", Now TV 
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
@@ -75,61 +66,38 @@ http://185.234.111.229:8000/play/a01x
 #EXTINF:-1 group-title="Play Tv | Ulusal", Beyaz TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-
 #EXTINF:-1 group-title="Play Tv | Ulusal",  360 Tv
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-
 
 #EXTINF:-1 group-title="Play Tv | Ulusal", Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
-
 #EXTINF:-1 group-title="Play Tv | Ulusal",  Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-
-
 
 #EXTINF:-1 group-title="Play Tv | Ulusal",  Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
-
-
 #EXTINF:-1 group-title="Play Tv | Ulusal",  A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
-
-
-
 
 #EXTINF:-1 group-title="Play Tv | Ulusal",  TYT TÜRK
 https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
 
-
-
 #EXTINF:-1 group-title="Play Tv | Ulusal",  CNBC-E
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
-
-
 
 #EXTINF:-1 group-title="Play Tv | Ulusal",  TRT Türk 
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-
-
 #EXTINF:-1 group-title="Telegram Kanalımız PLAYTVİZLE",PLAY TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-
-
 
 #EXTINF:-1 group-title="Play Tv | Ulusal",PLAY TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
-
-
-
 #EXTINF:-1 group-title="Play Tv | Spor ", TRT Spor 
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-
-
 
 #EXTINF:-1 group-title="Play Tv | Spor ", TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
@@ -138,17 +106,11 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Play Tv | Spor ", A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
-
-
-
 #EXTINF:-1 group-title="Play Tv | Spor ", Sports TV 
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
-
 #EXTINF:-1 group-title="Play Tv | Spor ", TR Spor TV
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
-
-
 
 #EXTINF:-1 group-title="Play Tv | Spor ", HT Spor
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
@@ -348,14 +310,8 @@ https://tinyurl.com/yc7a34p5
 #EXTINF:-1 group-title="Play Tv | Çocuk ", TRT Çocuk 
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-
-
 #EXTINF:-1 group-title="Play Tv | Çocuk", TRT Diyanet Çocuk 
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-
-
-#EXTINF:-1 group-title="Play Tv | Çocuk ", Baby TV 
-https://saran-live.ercdn.net/babytv/index.m3u8
 
 
 #EXTINF:-1 group-title="Play Tv | Çocuk", Disney Junior
@@ -369,12 +325,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 group-title="Play Tv | Çocuk", Minika Çocuk 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 
-
-
 #EXTINF:-1 tvg-name="Arabesk" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Arabesk
 https://yayin.santraltr.com/hls/arabeskyeni.m3u8
-
-
 #EXTINF:-1 tvg-name="Damar" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Damar
 https://yayin.santraltr.com/hls/damar.m3u8
 #EXTINF:-1 tvg-name="Dost" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Dost
@@ -382,7 +334,7 @@ https://yayin.santraltr.com/hls/dost.m3u8
 #EXTINF:-1 tvg-name="Ezo" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Ezo
 https://yayin.santraltr.com/hls/ezo.m3u8
 
-i
+
 #EXTINF:-1 tvg-name="Power Türk Slow" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Slow
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Power Türk Taptaze" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Taptaze
